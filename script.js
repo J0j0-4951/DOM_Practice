@@ -11,6 +11,10 @@ const header = document.querySelector("h1");
 console.log(header);
 const red= document.querySelectorAll(".redclass");
 console.log(red);
+document.getElementById("click").addEventListener("click"), function()
+{
+alert("CLICKED BUTTON");
+}
 
 /*"The Header"*/
 
